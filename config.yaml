@@ -1,0 +1,19 @@
+title: Solar Theme
+theme: solar-theme-hugo
+paginate: 5
+pygmentsStyle: solarized-dark
+copyright: ''
+params:
+  description: A wizard is never late
+  scheme: preference
+menu:
+  main:
+    - name: Feed
+      url: /index.xml
+    - name: Repository
+      url: https://github.com/bake/solar-theme-hugo/
+  other:
+    - name: Hugo
+      url: https://themes.gohugo.io/solar-theme-hugo/
+    - name: Demo
+      url: https://themes.gohugo.io/theme/solar-theme-hugo/
